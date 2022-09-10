@@ -1,3 +1,9 @@
+# Notice
+
+This forked version is for my personal research, some info may different from the original.
+
+To avoid misleading, Please Do NOT use any information related to Microsoft or Hiring in this repo.
+
 <img src="docs/logo-10.png" width=100%> 
 
 Graphormer is a deep learning package that allows researchers and developers to train custom models for molecule modeling tasks. It aims to accelerate the research and application in AI for molecule science, such as material discovery, drug discovery, etc. [Project website](https://www.microsoft.com/en-us/research/project/graphormer/).
